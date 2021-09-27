@@ -1,0 +1,23 @@
+.droparea {
+	border: 1px solid black;
+	height: 2000px;
+	width: 400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.child {
+	border: 1px solid blue;
+	height: 100px;
+	position: absolute;
+	width: 100px;
+	top: 1500px;
+	left: 100px;
+}
+
+.arrow {
+	background-color: red;
+	position: absolute;
+}
